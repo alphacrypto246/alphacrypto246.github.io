@@ -9,8 +9,9 @@ body
     width: 100vw;
     box-sizing: border-box;
     overflow-x: hidden; 
+}
 .floor-1 {
-    background-image: url('resources/bg-1.jpg');
+    background-image: url('https://cellularnews.com/images/hd/aesthetic-1920X1080-x6ijznr0kamuf0td.jpeg');
     height: 100%;
     background-attachment: scroll;
     background-position: center;
@@ -41,7 +42,8 @@ body
 
 .namaste
 {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     font-size: 10rem;
     font-weight: bolder;
 }
@@ -50,4 +52,10 @@ body
     font-size: 6rem;
     font-weight: bold;
     font-family: 'Mukta', sans-serif;
+}
+.container
+{
+    height: 90%;
+    width: 90%;
+    border: 2px solid red;
 }
